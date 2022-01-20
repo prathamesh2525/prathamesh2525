@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there👋
 
+- I'm Prathamesh Madniwale, a computer science engineer in making, blockchain enthusiast
+- I'm currently learning javascript and solidity
 <!--
 **prathamesh2525/prathamesh2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
