@@ -1,18 +1,20 @@
-### Hi there👋
+![github-profile-gif](https://user-images.githubusercontent.com/61145586/152018050-c6981aca-7d53-421d-91be-013337bb6706.gif)
 
-- I'm Prathamesh Madniwale, a computer science engineer in making, blockchain enthusiast
-- I'm currently learning javascript and solidity
-<!--
-**prathamesh2525/prathamesh2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ```js
+  const person = {
+    firstName: "Prathamesh",
+    lastName: "Madniwale",
+    age: 21,
+    console.log("#WAGMI");
+  };
+  ```
+- 💻 A computer science engineer in making, blockchain enthusiast
+- 🌱 I’m currently learning Solidity and Javascript
+- 📫 How to reach me: [twitter](https://twitter.com/PMadniwale)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh2525&layout=compact&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamesh2525&show_icons=true&theme=tokyonight)
+
+> I think everyone should know that: Life Goes On
+
