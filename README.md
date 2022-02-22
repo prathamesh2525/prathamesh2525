@@ -8,7 +8,9 @@
     console.log("#WAGMI");
   };
   ```
-- 💻 A computer science engineer in making, blockchain enthusiast
+  <p align="center">
+    A Blockchain Development Learner
+  </p>
 - 🌱 I’m currently learning Solidity and Javascript
 - 📫 How to reach me: [twitter](https://twitter.com/PMadniwale)
 
