@@ -8,7 +8,7 @@ Frontend Developer | In making Blockchain Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [prathamesh252@protonmail.com](mailto:prathamesh252@protonmail.com)
-* 🧠  I'm learning BLockchain Development
+* 🧠  I'm learning Blockchain Development
 * 🤝  I'm open to collaborating on Web and Web3 development projects
 
 <a href="https://www.twitter.com/pratham_eth" target="_blank" rel="noreferrer"><img
