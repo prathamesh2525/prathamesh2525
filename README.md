@@ -7,15 +7,12 @@ Hi 👋 My name is Prathamesh Madniwale
 
 Frontend Developer | In making Blockchain Developer
 ---------------------------------------------------
-
-- 🔭 I’m currently working on Web development and blockchain
-- 🌱 I’m currently learning …
-- 👯 I’m looking to collaborate on …
-- 🤔 I’m looking for help with …
-- 💬 Ask me about …
-- 📫 How to reach me: …
-- 😄 Pronouns: …
-- ⚡ Fun fact: …
+- 🌎 I am based in 🇮🇳 
+- 🔭 I’m currently working on Portfolio Website
+- 🌱 I’m currently learning Web Development and Blockchain(ETH)
+- 👯 I’m looking to collaborate on Blockchain Projects
+- 💬 Ask me anything
+- ⚡ Fun fact: You cannot learn JS completely
 
 
 
