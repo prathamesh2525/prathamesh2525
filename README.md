@@ -1,4 +1,6 @@
-![github-profile-gif](https://user-images.githubusercontent.com/61145586/152018050-c6981aca-7d53-421d-91be-013337bb6706.gif)
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div> 
 
 Hi 👋 My name is Prathamesh Madniwale
 =====================================
@@ -6,10 +8,16 @@ Hi 👋 My name is Prathamesh Madniwale
 Frontend Developer | In making Blockchain Developer
 ---------------------------------------------------
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [prathamesh252@protonmail.com](mailto:prathamesh252@protonmail.com)
-* 🧠  I'm learning Blockchain Development
-* 🤝  I'm open to collaborating on Web and Web3 development projects
+- 🔭 I’m currently working on Web development and blockchain
+- 🌱 I’m currently learning …
+- 👯 I’m looking to collaborate on …
+- 🤔 I’m looking for help with …
+- 💬 Ask me about …
+- 📫 How to reach me: …
+- 😄 Pronouns: …
+- ⚡ Fun fact: …
+
+
 
 <a href="https://www.twitter.com/pratham_eth" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/pratham_eth?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
