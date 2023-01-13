@@ -2,10 +2,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 
-Hi 👋 My name is Prathamesh Madniwale
+Hey 👋 My name is Prathamesh Madniwale
 =====================================
 
-Frontend Developer | In making Blockchain Developer
+Frontend Developerr | In making Blockchain Developer
 ---------------------------------------------------
 - 🌎 I am based in 🇮🇳 
 - 🔭 I’m currently working on Portfolio Website
