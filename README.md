@@ -16,9 +16,6 @@ Frontend Developerr | In making MERN Stack Developer
 
 
 
-<a href="https://www.twitter.com/2xprathamesh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/pratham_eth?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 ### Skills
 
 <p align="left">
