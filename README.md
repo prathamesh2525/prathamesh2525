@@ -8,7 +8,7 @@ Hey 👋 My name is Prathamesh Madniwale
 Frontend Developerr | In making MERN Stack Developer
 ---------------------------------------------------
 - 🌎 I am based in 🇮🇳 
-- 🔭 I’m currently working on Portfolio Website
+- 🔭 I’m currently working on my fullstack project (Course Selling Website)
 - 🌱 I’m currently learning and building on top of MERN Stack.
 - 👯 I’m looking to collaborate on Blockchain Projects
 - 💬 Ask me anything
