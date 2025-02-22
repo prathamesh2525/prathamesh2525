@@ -5,12 +5,11 @@
 Hey 👋 My name is Prathamesh Madniwale
 =====================================
 
-Frontend Developerr | In making MERN Stack Developer
+Data Engineer 
 ---------------------------------------------------
 - 🌎 I am based in 🇮🇳 
-- 🔭 I’m currently working on my fullstack project (Course Selling Website)
-- 🌱 I’m currently learning and building on top of MERN Stack.
-- 👯 I’m looking to collaborate on Blockchain Projects
+- 🔭 I’m currently working on Big Data Project.
+- 🌱 I’m currently learning SQL, Python and PySpark.
 - 💬 Ask me anything
 
 
